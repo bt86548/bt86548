@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Junior Data Engineer and also Data Analyst!
+## Waiting for a chance to be Data Engineer!
 - 🔭 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
