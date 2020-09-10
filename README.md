@@ -1,8 +1,8 @@
 ### Hi there, please feel free for folking anything here 👋
 
-## I'm looking forward to be a Data Engineer!
+## Desired to be a Data Engineer!
 - 📣 I’m currently learning everything 🤣
-- 🎯 be passion for learning 
+- 🎯 Be passion for learning in this chaos world
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
 
