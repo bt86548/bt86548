@@ -2,7 +2,7 @@
 
 ## I'm looking forward to be a Data Engineer!
 - 📣 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🎯 be passion for learning 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
 
