@@ -2,8 +2,8 @@
 
 ## Desired to be a Data Engineer!
 - 📣 I’m currently learning everything 🤣
-- 🎯 Be passion for learning in this chaos world
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💡 Be passion for learning in this chaos world
+- 🎯 Better to do something imperfectly than to do nothing flawlessly.
 
 
 <!--END_SECTION:waka-->
