@@ -4,17 +4,8 @@
 - 📣 I’m currently learning everything 🤣
 - 🎯 Be passion for learning in this chaos world
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to self-studying and solving problems
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Docker       6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-Python       3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-AWS          2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Hadoop       2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Spark        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-```
+
 <!--END_SECTION:waka-->
 
 ### Connect with me:
@@ -27,23 +18,27 @@ Spark        1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 <br />
 
+   <a href="https://codestats.net/users/bt86548">
+      <img src='https://arthurtibame-code-stats.herokuapp.com/history-graph/bt86548?width=500&height=300&timezone=08:00&history_days=14&max_languages=15&language_colors=[%223e4053%22,%22f15854%22,%225da5da%22,%22faa43a%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22decf3f%22,%22b276b2%22,%22808080%22]' alt="bt86548's Code::Stats history graph" />
+    </a>
+
 ### Languages and Tools:
 [<img align="left" alt="Kaggle" width="35px" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" />][kaggle]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Python" width="30px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Python" width="30px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" />]
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="GCP" width="30px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />][website]
 [<img align="left" alt="AWS" width="30px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />][website]
-[<img align="left" alt="Hadoop" width="30px" src="https://e7.pngegg.com/pngimages/260/648/png-clipart-apache-hadoop-logo-big-data-data-analysis-hadoop-distributed-filesystem-hue-hadoop-text-logo.png" />][website]
+[<img align="left" alt="Hadoop" width="30px" src="https://e7.pngegg.com/pngimages/260/648/png-clipart-apache-hadoop-logo-big-data-data-analysis-hadoop-distributed-filesystem-hue-hadoop-text-logo.png" />]
 [<img align="left" alt="Spark" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" />][website]
 [<img align="left" alt="Kafka" width="30px" src="https://i0.wp.com/logosandtypes.com/wp-content/uploads/2019/08/kafka.png" />][website]
 [<img align="left" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />][website]
 [<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" />][website]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<code>[<img alt="GitHub"  src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg" />][website]</code>
 
 <br />
 <br />
