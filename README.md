@@ -23,6 +23,13 @@
 
 ---
 
+
+<div class="row">
+  <div class="col-lg-6 text-right">     
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" />      
+   </div>
+</div>
+
 <div class="row">
   <div class="col-lg-6 text-left">
       <a href="https://codestats.net/users/bt86548">
@@ -31,11 +38,7 @@
   </div>
 </div>
 
-<div class="row">
-  <div class="col-lg-6 text-right">     
-     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" />      
-   </div>
-</div>
+
 
 
 ### Languages and Tools:
