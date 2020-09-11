@@ -2,7 +2,7 @@
 
 ## Desired to be a Data Engineer!
 - 📣 I’m currently learning everything 🤣
-- 💡 Be passion for learning in this chaos world
+- 🔥 Be passion for learning in this chaos world
 - 🎯 Better to do something imperfectly than to do nothing flawlessly.
 
 
