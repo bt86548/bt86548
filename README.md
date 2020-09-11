@@ -12,8 +12,8 @@
 
 <br />
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<code>[<img alt="codeSTACKr | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />][facebook]</code>
+<code>[<img alt="codeSTACKr | LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]</code>
 
 <br />
 
@@ -64,5 +64,6 @@
 ---
 
 
+[facebook]: https://www.facebook.com/rudy.lee.3576
 [linkedin]: https://www.linkedin.com/in/%E5%98%89%E5%80%AB-%E6%9D%8E-032a6b1a5/
 
