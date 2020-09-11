@@ -65,9 +65,5 @@
 ---
 
 
-[website]: http://arthurtibame.tk
 [linkedin]: https://www.linkedin.com/in/%E5%98%89%E5%80%AB-%E6%9D%8E-032a6b1a5/
-[twitter]: https://twitter.com/arthur4410
-[line]: https://line.me/ti/p/zJUO6aAEyf
-[telegram]: https://t.me/Lin_shu_li
-[kaggle]: https://www.kaggle.com/arthur8485
+
