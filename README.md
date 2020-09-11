@@ -33,7 +33,7 @@
 
 <div class="row">
   <div class="col-lg-6 text-right">     
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" />      
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" />      
    </div>
 </div>
 
