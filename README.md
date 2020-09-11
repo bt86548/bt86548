@@ -23,9 +23,20 @@
 
 ---
 
-   <a href="https://codestats.net/users/bt86548">
-      <img src='https://arthurtibame-code-stats.herokuapp.com/history-graph/bt86548?width=500&height=300&timezone=08:00&history_days=14&max_languages=15&language_colors=[%223e4053%22,%22f15854%22,%225da5da%22,%22faa43a%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22decf3f%22,%22b276b2%22,%22808080%22]' alt="bt86548's Code::Stats history graph" />
-    </a>
+<div class="row">
+  <div class="col-lg-6 text-mid">
+      <a href="https://codestats.net/users/bt86548">
+         <img src='https://arthurtibame-code-stats.herokuapp.com/history-graph/bt86548?width=500&height=300&timezone=08:00&history_days=14&max_languages=15&language_colors=[%223e4053%22,%22f15854%22,%225da5da%22,%22faa43a%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22decf3f%22,%22b276b2%22,%22808080%22]' alt="bt86548's Code::Stats history graph" />
+      </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6 text-mid">
+      [![](https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548)](https://github.com/bt86548/)
+   </div>
+</div>
+
 
 ### Languages and Tools:
 [<img align="left" alt="Kaggle" width="35px" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" />][kaggle]
@@ -52,8 +63,6 @@
 <br />
 
 ---
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548)](https://github.com/bt86548/)
 
 
 [website]: http://arthurtibame.tk
