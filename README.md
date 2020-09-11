@@ -21,7 +21,6 @@
 
 <br />
 
----
 
 
 <div class="row">
@@ -40,7 +39,6 @@
 
 
 
----
 
 ### Languages and Tools:
 
