@@ -26,7 +26,7 @@
 
 <div class="row">
   <div class="col-lg-6 text-right">     
-     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" width="300" height="400"/>      
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" width="200" height="300"/>      
    </div>
 </div>
 
