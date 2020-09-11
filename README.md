@@ -52,11 +52,6 @@
 <br />
 ---
 
----
-
-<img align="left" alt="bt86548's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bt86548&show_icons=true&hide_border=true" />
-
-<img align="right" alt="bt86548's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bt86548" />
 
 
 [website]: http://arthurtibame.tk
